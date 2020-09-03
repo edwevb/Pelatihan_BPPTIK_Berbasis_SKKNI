@@ -6,15 +6,17 @@ Pelatihan BPPTIK Kominfo Berbasis SKKNI
 [![Latest Unstable Version](https://poser.pugx.org/buonzz/laravel-4-freegeoip/v/unstable.svg)](https://packagist.org/packages/buonzz/laravel-4-freegeoip) [![License](https://poser.pugx.org/buonzz/laravel-4-freegeoip/license.svg)](https://packagist.org/packages/buonzz/laravel-4-freegeoip)
 <br>
 Laravel 4 Library for calling http://freegeoip.net/ API.
-<br>
-<p align="center">  
+<br><br><br>
+    <p align="center">
     <a href="https://bpptik.kominfo.go.id/">
     <img src="https://bpptik.kominfo.go.id/wp-content/uploads/2017/02/xlogo_web_bpptik-2.png.pagespeed.ic.LN1vMmwdNB.webp" alt="Logo" width="auto" height="auto">
     </a>
-    <h3 align="center">Pelatihan Junior Web Developer</h3>
-<p align="center">
+</p>
+<h3 align="center">Pelatihan Junior Web Developer</h3>
 
-## Membuat Program Kalkulator Sederhana
+
+Membuat Program Kalkulator Sederhana
+============
 
 Program ini bertujuan untuk melakukan proses perhitungan sederhana.
 Berikut beberapa requirements yang saya gunakan :
@@ -39,13 +41,14 @@ Usages
 6. Buka localhost/folder/file.php untuk melihat output program
 
 
-## OUTPUT
-<p align="center">  
-    <img src="output.jpg" alt="Logo" width="auto" height="300">
-    </a>
-    <br>
-    <i>Output Program</i>
-<p align="center">
+OUTPUT
+============
+
+<img src="output.jpg" alt="Logo" width="auto" height="300">
+</a>
+<br>
+<i>Output Program</i>
+
 
 
 Credits

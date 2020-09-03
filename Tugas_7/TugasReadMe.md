@@ -4,8 +4,9 @@ Pelatihan BPPTIK Kominfo Berbasis SKKNI
 [![Build Status](https://travis-ci.org/buonzz/laravel-4-freegeoip.svg?branch=master)](https://travis-ci.org/buonzz/laravel-4-freegeoip)
 [![Latest Stable Version](https://poser.pugx.org/buonzz/laravel-4-freegeoip/v/stable.svg)](https://packagist.org/packages/buonzz/laravel-4-freegeoip) [![Total Downloads](https://poser.pugx.org/buonzz/laravel-4-freegeoip/downloads.svg)](https://packagist.org/packages/buonzz/laravel-4-freegeoip)
 [![Latest Unstable Version](https://poser.pugx.org/buonzz/laravel-4-freegeoip/v/unstable.svg)](https://packagist.org/packages/buonzz/laravel-4-freegeoip) [![License](https://poser.pugx.org/buonzz/laravel-4-freegeoip/license.svg)](https://packagist.org/packages/buonzz/laravel-4-freegeoip)
+<br>
 Laravel 4 Library for calling http://freegeoip.net/ API.
-
+<br>
 <p align="center">  
     <a href="https://bpptik.kominfo.go.id/">
     <img src="https://bpptik.kominfo.go.id/wp-content/uploads/2017/02/xlogo_web_bpptik-2.png.pagespeed.ic.LN1vMmwdNB.webp" alt="Logo" width="auto" height="auto">
@@ -22,7 +23,7 @@ Requirements
 ============
 
 * [PHP >= 7.0](https://packagecontrol.io/installation)
-* CSS
+* HTNL 5 & CSS 3
 * [XAMPP](https://www.apachefriends.org/index.html)
 * [Sublime Text 3](https://www.sublimetext.com/3)
 
@@ -42,6 +43,7 @@ Usages
 <p align="center">  
     <img src="output.jpg" alt="Logo" width="auto" height="300">
     </a>
+    <br>
     <i>Output Program</i>
 <p align="center">
 

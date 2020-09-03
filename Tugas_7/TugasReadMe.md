@@ -6,6 +6,7 @@ Pelatihan BPPTIK Kominfo Berbasis SKKNI
 [![Latest Unstable Version](https://poser.pugx.org/buonzz/laravel-4-freegeoip/v/unstable.svg)](https://packagist.org/packages/buonzz/laravel-4-freegeoip) [![License](https://poser.pugx.org/buonzz/laravel-4-freegeoip/license.svg)](https://packagist.org/packages/buonzz/laravel-4-freegeoip)
 <br>
 Laravel 4 Library for calling http://freegeoip.net/ API.
+
 <br><br><br>
     <p align="center">
     <a href="https://bpptik.kominfo.go.id/">
@@ -13,13 +14,13 @@ Laravel 4 Library for calling http://freegeoip.net/ API.
     </a>
 </p>
 <h3 align="center">Pelatihan Junior Web Developer</h3>
-
+<br><br><br>
 
 Membuat Program Kalkulator Sederhana
 ============
 
 Program ini bertujuan untuk melakukan proses perhitungan sederhana.
-Berikut beberapa requirements yang saya gunakan :
+Berikut beberapa bahasa, software, serta langkah-langkah yang saya gunakan :
 
 Requirements
 ============
@@ -41,13 +42,12 @@ Usages
 6. Buka localhost/folder/file.php untuk melihat output program
 
 
-OUTPUT
+Output
 ============
 
 <img src="output.jpg" alt="Logo" width="auto" height="300">
 </a>
 <br>
-<i>Output Program</i>
 
 
 

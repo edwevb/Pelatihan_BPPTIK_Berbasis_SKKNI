@@ -25,7 +25,7 @@ Berikut beberapa bahasa, software, serta langkah-langkah yang saya gunakan :
 Requirements
 ============
 
-* [PHP >= 7.0](https://packagecontrol.io/installation)
+* [PHP >= 7.0](https://php.net)
 * HTNL 5 & CSS 3
 * [XAMPP](https://www.apachefriends.org/index.html)
 * [Sublime Text 3](https://www.sublimetext.com/3)

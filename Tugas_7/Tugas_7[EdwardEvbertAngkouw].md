@@ -26,7 +26,7 @@ Requirements
 ============
 
 * [PHP >= 7.0](https://php.net)
-* HTNL 5 & CSS 3
+* HTML 5 & CSS 3
 * [XAMPP](https://www.apachefriends.org/index.html)
 * [Sublime Text 3](https://www.sublimetext.com/3)
 
@@ -45,7 +45,7 @@ Usages
 Output
 ============
 
-<img src="output.jpg" alt="Logo" width="auto" height="300">
+<a><img src="output.jpg" alt="Logo" width="auto" height="300">
 </a>
 <br>
 
